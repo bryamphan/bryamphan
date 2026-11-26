@@ -1,8 +1,7 @@
 # about me:
 welcome to my page.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8delzjgaier5zci6myiiql2vy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8delzjgaier5zci6myiiql2vy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8delzjgaier5zci6myiiql2vy&redirect=true)
 
 ## let's connect:
 [![ig](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/jaiuko) [![network](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryan-pham-b9a5b92b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryanpham0930@gmail.com) 
