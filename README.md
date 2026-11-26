@@ -1,7 +1,6 @@
 # about me:
 welcome to my page! i'm bryan, a 5th year computer science student at csuf with an interest in full-stack development, machine learning, and data science. i'm probably coding, gymming, and most definitely listening to music! (˶˃ ᵕ ˂˶)
 
-# currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8delzjgaier5zci6myiiql2vy&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=false&profanity=false&hide_remaster=false&bar_color=ff5789&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8delzjgaier5zci6myiiql2vy&redirect=true)
 
 ## let's connect:
