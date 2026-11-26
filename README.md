@@ -3,6 +3,63 @@ welcome to my world.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8delzjgaier5zci6myiiql2vy&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=false&profanity=false&hide_remaster=false&bar_color=ff5789&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8delzjgaier5zci6myiiql2vy&redirect=true)
 
+
+<div align="center">
+
+  <!-- Retro Pixel Header Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=E52B88&center=true&vCenter=true&width=550&lines=%E2%9C%A7+WELCOME+TO+MY+DIGITAL+CORNER+%E2%9C%A7;Labony+Sur+%E2%A0%80+AI+%26+Bioinformatics;Building+Cute+%26+Intelligent+Stuff!" alt="Pixel Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- Y2K / Webcore Retro Badges -->
+  <img src="https://img.shields.io/badge/%E2%9C%A7_Status-Creating_Magic-e52b88?style=flat-square&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/%E2%9C%A7_Focus-AI_%26_Bioinformatics-18181b?style=flat-square&labelColor=e52b88" />
+  <img src="https://img.shields.io/badge/%E2%9C%A7_Major-B.Sc._in_CSE-e52b88?style=flat-square&labelColor=18181b" />
+
+  <br /><br />
+
+  ### ✧ WELCOME TO MY CORNER ✧
+
+</div>
+
+```text
+                                           __
+                                          d88b
+                                         888888
+                              _          888888
+                            ,d88         888888
+                     ____  d88' _,,      88888'
+                    (8888\ 88' d888)     Y8888P
+                    ___~~8 ~8  88~___    d8888
+   _______      _,d888888        ~ 888888_8888
+ ,888888888===__ _,d88P~~             ~~Y88888'
+ 888888888888888888888'                  `88b
+ `~88888888888~~~~ 88                      88
+     ~~~~~~~       88                      88
+                   88  ,aa.          ,aa.  88
+                   88  d88b          d88b  88
+                 ,=88  Y88P          Y88P  88=,
+               ,d88P'   `'    _aa_    `'   `Y88b,    ___
+               88P'          (8888)          `Y88 ad8888b
+               88             ~^^~             88 d88Y~"Yb
+        _______"Yb._                        _.d8"d8Y    88
+ _____,d88888888ba888=,.___________________.,=8888~d88____88___
+|~~~~~88P~~~~~~Y88~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|     88        88 Hi! I'm Labony Sur (she/her) ✦              |
+|     88ba,___,d8P                                             |
+|      "888888888  CS & Eng student building intelligent       |
+|         ~~~~~~   systems & analyzing complex bio data.       |
+|                                                              |
+| ✦ Exploring : AI, Genomic Data & Web Engineering             |
+| ✦ Vibe      : Clean line art, cozy spaces, interactive code  |
+| ✦ Goal      : Tech at intersection of ML & Bioinformatics    |
+|                                          |\      _,,--,,_  ,)|
+|                                          /,`.-'`'  -,  ;-;;' |
+|________________________________________ |,4- ) )-,_ ) /\_____|
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'---''(_/--' (_/-'~~~~
+
 ## let's connect:
 [![ig](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/jaiuko) [![network](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryan-pham-b9a5b92b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryanpham0930@gmail.com) 
 
